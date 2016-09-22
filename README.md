@@ -475,7 +475,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 11. Kbyeh Manar
 	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- GitHub: https://github.com/manarkbyeh/web-backend-oplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
